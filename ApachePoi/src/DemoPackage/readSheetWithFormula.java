@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.poi;
+package DemoPackage;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -47,11 +47,11 @@ public class readSheetWithFormula {
 		}
 		
 		System.out.println("Reading Formula");
-		readSheetWithFormula();
+		readSheetFormula();
 	}
 	
 	
-	public static void readSheetWithFormula()
+	public static void readSheetFormula()
 	{
 	    try
 	    {

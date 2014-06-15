@@ -1,5 +1,5 @@
 
-package com.howtodoinjava.demo.poi;
+package DemoPackage;
 
 import java.io.File;
 import java.io.FileInputStream;
